@@ -13,5 +13,5 @@ document.getElementById("li1");
 //Me devuelve un array con todos los elementos con el name buscado
 document.getElementsByName("input");
 document.getElementsByName("input").length;
-document.getElementsByName("input")[0];prototype
+document.getElementsByName("input")[0];
 
